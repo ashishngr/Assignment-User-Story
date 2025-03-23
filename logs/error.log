@@ -1,0 +1,317 @@
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T13:45:20.399Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T13:45:26.412Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T13:45:31.430Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T13:45:41.071Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T13:45:48.247Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T13:45:54.209Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T13:54:15.244Z"}
+{"error":"Operation `users.findOne()` buffering timed out after 10000ms","level":"error","message":"User registration failed","timestamp":"2025-03-23T14:19:34.457Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T14:22:31.988Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T14:22:36.996Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T14:22:42.001Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T14:22:47.057Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T14:22:53.415Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T14:22:58.572Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T14:24:04.889Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T14:25:52.249Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T14:25:57.255Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T14:26:02.259Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T14:26:07.312Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T14:27:13.737Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T14:27:18.755Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T14:27:37.914Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T14:27:45.354Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T14:36:25.343Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T14:36:30.358Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T14:50:59.927Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T15:28:42.153Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:28:47.170Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:28:52.177Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:29:02.196Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T15:29:25.745Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T15:29:25.748Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:29:30.906Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:29:36.113Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:29:41.370Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:29:46.677Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:29:53.660Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:29:59.068Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:30:04.525Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:30:10.030Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T15:31:03.005Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:31:08.011Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:31:17.423Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:31:22.479Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:31:27.586Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:31:32.743Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:31:37.950Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:31:43.209Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:31:48.517Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:31:53.872Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:31:59.278Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:32:04.734Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T15:33:29.814Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:33:34.820Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:33:39.825Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:33:44.881Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:33:49.989Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:33:55.144Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T15:35:18.045Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:35:23.051Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:35:28.055Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:35:33.109Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T15:37:58.103Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:38:03.112Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:38:08.114Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:38:17.464Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:38:22.573Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:38:27.729Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:38:35.850Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:38:41.106Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:38:46.420Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:38:51.776Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50092)","timestamp":"2025-03-23T15:38:56.200Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50109)","timestamp":"2025-03-23T15:38:56.656Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50112)","timestamp":"2025-03-23T15:38:57.163Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:39:02.669Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:39:08.178Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:39:13.687Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:39:19.192Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:39:24.698Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:39:30.204Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:39:35.712Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:39:41.226Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:39:48.601Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:39:54.109Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:39:59.618Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T15:41:14.369Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:41:19.373Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:41:28.702Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:41:33.758Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:41:38.864Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:41:44.021Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:41:50.978Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:41:56.232Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:42:01.537Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:42:06.894Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:42:12.298Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:42:17.754Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:42:23.259Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:42:28.764Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:42:34.269Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:42:39.773Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:42:45.278Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:42:50.783Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T15:44:07.900Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:44:12.905Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:44:17.909Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:44:22.965Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:44:31.722Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:44:36.880Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:44:42.087Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:44:47.342Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:44:52.649Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:44:58.006Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:45:03.412Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:45:08.870Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:45:16.696Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50295)","timestamp":"2025-03-23T15:45:17.206Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50296)","timestamp":"2025-03-23T15:45:17.712Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50311)","timestamp":"2025-03-23T15:45:18.218Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50333)","timestamp":"2025-03-23T15:45:18.724Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50334)","timestamp":"2025-03-23T15:45:19.230Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50335)","timestamp":"2025-03-23T15:45:19.738Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50337)","timestamp":"2025-03-23T15:45:20.244Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50338)","timestamp":"2025-03-23T15:45:20.749Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50339)","timestamp":"2025-03-23T15:45:21.254Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50340)","timestamp":"2025-03-23T15:45:21.759Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50341)","timestamp":"2025-03-23T15:45:22.266Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50342)","timestamp":"2025-03-23T15:45:22.772Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50343)","timestamp":"2025-03-23T15:45:23.277Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50344)","timestamp":"2025-03-23T15:45:23.783Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50345)","timestamp":"2025-03-23T15:45:24.289Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50346)","timestamp":"2025-03-23T15:45:24.794Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50347)","timestamp":"2025-03-23T15:45:25.298Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50348)","timestamp":"2025-03-23T15:45:25.803Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50349)","timestamp":"2025-03-23T15:45:26.309Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:45:31.814Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:45:37.320Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:45:47.702Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:45:53.208Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:45:58.715Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:46:04.220Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:46:09.726Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:46:15.233Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:46:21.068Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:46:26.574Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:46:32.082Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:46:37.589Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:46:43.092Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:46:48.597Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:46:58.157Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:47:03.663Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:47:09.169Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:47:14.674Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:47:20.180Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:47:25.690Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:47:31.196Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:47:36.701Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:47:42.206Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:47:47.712Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:47:53.219Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:47:58.725Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:48:04.230Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T15:48:40.754Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:48:45.758Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:48:50.763Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:48:55.818Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:49:04.461Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:49:09.615Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:49:14.820Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:49:20.076Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:49:27.353Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T15:49:52.520Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:49:57.525Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:50:02.531Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T15:51:29.984Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:51:34.988Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:51:39.994Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:51:45.049Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T15:53:44.304Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:53:49.308Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:53:54.313Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:53:59.367Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T15:54:24.335Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:54:29.341Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:54:34.346Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:54:41.186Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:54:46.292Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:54:51.448Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:54:56.653Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:55:01.910Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:55:07.216Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:55:12.573Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:55:17.979Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:55:23.435Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:55:33.434Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:55:38.944Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:55:44.452Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:55:49.960Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:55:55.467Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50756)","timestamp":"2025-03-23T15:55:56.483Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:56:01.988Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T15:57:34.903Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:57:39.908Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T15:58:04.860Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T15:58:04.864Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:58:09.919Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:58:15.023Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T15:59:22.147Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:59:27.152Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:59:32.154Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:59:37.211Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:59:44.917Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:59:50.070Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T15:59:55.274Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:00:00.527Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:00:05.835Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:00:11.191Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:00:16.596Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:00:22.051Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:00:27.554Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T16:01:29.204Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:01:34.209Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:01:39.213Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:01:44.270Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:01:49.379Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:01:54.535Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50987)","timestamp":"2025-03-23T16:01:58.394Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50988)","timestamp":"2025-03-23T16:01:58.648Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50989)","timestamp":"2025-03-23T16:01:58.956Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50990)","timestamp":"2025-03-23T16:01:59.311Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50991)","timestamp":"2025-03-23T16:01:59.716Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50992)","timestamp":"2025-03-23T16:02:00.173Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50993)","timestamp":"2025-03-23T16:02:00.680Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50994)","timestamp":"2025-03-23T16:02:01.189Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50995)","timestamp":"2025-03-23T16:02:01.693Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50996)","timestamp":"2025-03-23T16:02:02.198Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50997)","timestamp":"2025-03-23T16:02:02.704Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50998)","timestamp":"2025-03-23T16:02:03.210Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:50999)","timestamp":"2025-03-23T16:02:03.714Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:51000)","timestamp":"2025-03-23T16:02:04.219Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:51001)","timestamp":"2025-03-23T16:02:04.724Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:51002)","timestamp":"2025-03-23T16:02:05.229Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:51015)","timestamp":"2025-03-23T16:02:05.735Z"}
+{"level":"error","message":"Redis Error: connect EHOSTUNREACH 13.234.112.200:15199 - Local (192.168.1.49:51016)","timestamp":"2025-03-23T16:02:06.240Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:02:11.744Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:02:17.250Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:02:22.754Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:02:28.261Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:02:33.766Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:02:39.270Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:02:44.776Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:02:50.281Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:02:55.787Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:03:01.293Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:03:08.433Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:03:13.938Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:03:19.445Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:03:24.949Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:03:32.907Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:03:38.415Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:03:43.921Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:03:49.427Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:03:54.934Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:04:00.438Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:04:05.943Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:04:11.448Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:04:16.953Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:04:22.457Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:04:27.963Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:04:33.465Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:04:38.970Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:04:44.476Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:04:49.980Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:04:55.485Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:05:00.991Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:05:06.494Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:05:11.999Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:05:17.503Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:05:23.009Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:05:28.515Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:05:34.019Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:05:43.053Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:05:48.559Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:05:54.065Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:05:59.571Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:06:05.079Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:06:12.053Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:06:17.558Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:06:23.064Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:06:28.568Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:06:35.144Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:06:40.650Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:06:46.156Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:06:51.661Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:06:57.167Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:07:03.633Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:07:09.139Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:07:14.645Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:07:20.150Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T16:07:49.933Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:07:54.947Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:07:59.952Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T16:10:39.182Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:10:44.186Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T16:11:41.624Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:11:46.627Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:11:53.519Z"}
+{"level":"error","message":"Redis Error: Connection timeout","timestamp":"2025-03-23T16:11:58.580Z"}
+{"level":"error","message":"Redis Error: read ETIMEDOUT","timestamp":"2025-03-23T16:25:09.589Z"}
+{"error":"validationResult is not defined","level":"error","message":"User registration failed","timestamp":"2025-03-23T16:31:59.586Z"}
+{"error":"validationResult is not defined","level":"error","message":"User registration failed","timestamp":"2025-03-23T16:32:33.967Z"}
+{"error":"logger is not defined","level":"error","message":"User registration failed","timestamp":"2025-03-23T16:34:30.478Z"}
+{"error":"bcrypt is not defined","level":"error","message":"User registration failed","timestamp":"2025-03-23T16:35:23.522Z"}
+{"error":"bcrypt is not defined","level":"error","message":"User registration failed","timestamp":"2025-03-23T16:36:27.334Z"}
+{"level":"error","message":"Logout error: jwt is not defined","timestamp":"2025-03-23T16:57:35.898Z"}
+{"level":"error","message":"Logout error: invalid signature","timestamp":"2025-03-23T16:58:23.943Z"}
